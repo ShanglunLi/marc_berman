@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/marc_berman/blob/master/2018__berman__suppression_of_scale.pdf" >The fractal brain and cognitive effort</a>
+  <a href="https://github.com/uchicago-computation-workshop/marc_berman/blob/master/2018_berman_suppression_of_scale.pdf"> The Fractal Brain and Cognitive Effort </a>
 </h2>
 
 <br>
